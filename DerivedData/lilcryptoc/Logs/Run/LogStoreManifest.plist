@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0FB00EE9-CCD5-4A14-861B-464C3DD81D43</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0FB00EE9-CCD5-4A14-861B-464C3DD81D43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lilcryptoc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lilcryptoc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lilcryptoc</string>
+			<key>timeStartedRecording</key>
+			<real>617468927.16240394</real>
+			<key>timeStoppedRecording</key>
+			<real>617468963.08802199</real>
+			<key>title</key>
+			<string>Run lilcryptoc</string>
+			<key>uniqueIdentifier</key>
+			<string>0FB00EE9-CCD5-4A14-861B-464C3DD81D43</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
