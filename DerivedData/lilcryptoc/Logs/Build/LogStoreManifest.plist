@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1E68F5CC-E33D-4BAE-B92E-4E0A977B4362</key>
+		<key>3E62B123-2AB4-4DEE-A1ED-F54C5B4291F1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1E68F5CC-E33D-4BAE-B92E-4E0A977B4362.xcactivitylog</string>
+			<string>3E62B123-2AB4-4DEE-A1ED-F54C5B4291F1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Build lilcryptoc</string>
 			<key>timeStartedRecording</key>
-			<real>617468927.03145397</real>
+			<real>618323833.35793698</real>
 			<key>timeStoppedRecording</key>
-			<real>617468927.16066694</real>
+			<real>618323833.40830898</real>
 			<key>title</key>
 			<string>Build lilcryptoc</string>
 			<key>uniqueIdentifier</key>
-			<string>1E68F5CC-E33D-4BAE-B92E-4E0A977B4362</string>
+			<string>3E62B123-2AB4-4DEE-A1ED-F54C5B4291F1</string>
+		</dict>
+		<key>6734C0EC-A63C-4C88-A0E2-B5980312563A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6734C0EC-A63C-4C88-A0E2-B5980312563A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lilcryptoc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lilcryptoc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lilcryptoc</string>
+			<key>timeStartedRecording</key>
+			<real>618323831.23167205</real>
+			<key>timeStoppedRecording</key>
+			<real>618323833.08259106</real>
+			<key>title</key>
+			<string>Build lilcryptoc</string>
+			<key>uniqueIdentifier</key>
+			<string>6734C0EC-A63C-4C88-A0E2-B5980312563A</string>
 		</dict>
 		<key>7E664DEB-B4A7-4698-905D-6EECA4E3B312</key>
 		<dict>
@@ -73,40 +107,6 @@
 			<string>Build lilcryptoc</string>
 			<key>uniqueIdentifier</key>
 			<string>7E664DEB-B4A7-4698-905D-6EECA4E3B312</string>
-		</dict>
-		<key>EF9BEFE7-6D82-47ED-AEF1-9E9EE800C304</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EF9BEFE7-6D82-47ED-AEF1-9E9EE800C304.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>lilcryptoc project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>lilcryptoc</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Clean lilcryptoc</string>
-			<key>timeStartedRecording</key>
-			<real>617526371.19387698</real>
-			<key>timeStoppedRecording</key>
-			<real>617526371.21552396</real>
-			<key>title</key>
-			<string>Clean lilcryptoc</string>
-			<key>uniqueIdentifier</key>
-			<string>EF9BEFE7-6D82-47ED-AEF1-9E9EE800C304</string>
 		</dict>
 	</dict>
 </dict>

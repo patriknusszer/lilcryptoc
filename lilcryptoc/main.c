@@ -174,6 +174,7 @@ int main(int argc, const char * argv[]) {
             char keyp[257];
             fgets(keyp, 256, stdin);
             sscanf(keyp, "%s", keyp);
+            printf("Output: ");
             char outp[257];
             fgets(outp, 256, stdin);
             sscanf(outp, "%s", outp);

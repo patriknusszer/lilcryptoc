@@ -40,6 +40,74 @@
 			<key>uniqueIdentifier</key>
 			<string>0FB00EE9-CCD5-4A14-861B-464C3DD81D43</string>
 		</dict>
+		<key>6D25592C-C6F9-4A65-BB25-8642613FB6B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6D25592C-C6F9-4A65-BB25-8642613FB6B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lilcryptoc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lilcryptoc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lilcryptoc</string>
+			<key>timeStartedRecording</key>
+			<real>618323833.41045797</real>
+			<key>timeStoppedRecording</key>
+			<real>618323859.84089601</real>
+			<key>title</key>
+			<string>Run lilcryptoc</string>
+			<key>uniqueIdentifier</key>
+			<string>6D25592C-C6F9-4A65-BB25-8642613FB6B7</string>
+		</dict>
+		<key>9A04630F-D9BC-4897-85B3-5FB65DE60D59</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9A04630F-D9BC-4897-85B3-5FB65DE60D59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lilcryptoc project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lilcryptoc</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lilcryptoc</string>
+			<key>timeStartedRecording</key>
+			<real>618323833.09111202</real>
+			<key>timeStoppedRecording</key>
+			<real>618323860.16661</real>
+			<key>title</key>
+			<string>Run lilcryptoc</string>
+			<key>uniqueIdentifier</key>
+			<string>9A04630F-D9BC-4897-85B3-5FB65DE60D59</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

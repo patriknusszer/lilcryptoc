@@ -1,2 +1,1 @@
-dependencies: \
-  /Users/patrik.nusszer/Documents/lilcryptoc/lilcryptoc/main.c
+dependencies: /Users/patrik.nusszer/Desktop/lilcryptoc/lilcryptoc/main.c
